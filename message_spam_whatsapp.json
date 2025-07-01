@@ -1,0 +1,11 @@
+// message_spam_whatsapp.json
+[
+    {
+        "subject": "URGENT: Account Issue [NUMBER]",
+        "body": "My account with number [NUMBER] is having serious problems..."
+    },
+    {
+        "subject": "HELP NEEDED [NUMBER]",
+        "body": "Please assist with my account [NUMBER] immediately..."
+    }
+]
