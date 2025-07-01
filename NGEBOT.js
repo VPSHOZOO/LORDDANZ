@@ -12,7 +12,7 @@ const TARGET_URLS = [
     "https://www.whatsapp.com/help/",
     "https://www.whatsapp.com/contact/noclient",
     "https://www.whatsapp.com/business/",
-    "https://www.whatsapp.com/complaint",
+    "https://www.whatsapp.com/",
     "https://www.whatsapp.com/",
     "https://graph.facebook.com/v17.0/{phone-number-id}/messages" // Added Facebook Graph API URL
 ];
